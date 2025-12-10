@@ -1,0 +1,15 @@
+bin/
+out/
+build/
+target/
+.settings/
+.classpath
+.project
+*.class
+*.log
+*.tmp
+*.cache
+Thumbs.db
+.DS_Store
+*.iml
+.idea/
