@@ -62,7 +62,7 @@ criação de reviews e gestão completa para administradores.
 
 ## ➤ Listagem de Filmes
 
-![Listagem de Filmes](mostra_todos-filmes.png)
+![Listagem de Filmes](mostra_todos_filmes.png)
 
 ------------------------------------------------------------------------
 
