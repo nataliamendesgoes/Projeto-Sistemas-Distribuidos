@@ -56,25 +56,25 @@ criação de reviews e gestão completa para administradores.
 
 ## ➤ Tela Inicial --- Área de Filmes
 
-![Tela de Filmes](./Screenshot_141151.png)
+![Tela de Filmes](pagina_filme.png)
 
 ------------------------------------------------------------------------
 
 ## ➤ Listagem de Filmes
 
-![Listagem de Filmes](./Screenshot_141213.png)
+![Listagem de Filmes](mostra_todos-filmes.png)
 
 ------------------------------------------------------------------------
 
 ## ➤ Detalhes do Filme + Reviews
 
-![Detalhes e Reviews](./Screenshot_141239.png)
+![Detalhes e Reviews](descricao_filme_review.png)
 
 ------------------------------------------------------------------------
 
 ## ➤ Tela do Servidor (Logs)
 
-![Logs Servidor](./Screenshot_141446.png)
+![Logs Servidor](interface_servidor.png)
 
 ------------------------------------------------------------------------
 
